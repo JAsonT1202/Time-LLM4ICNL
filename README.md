@@ -56,10 +56,10 @@
 
 ---
 
-## 📥 ソースコード
+## 📥 参考
 
 - GitHub リポジトリ:  
-  https://github.com/JAsonT1202/Time-LLM4ICNL
+  https://github.com/KimMeen/Time-LLM.git
 
 ---
 
