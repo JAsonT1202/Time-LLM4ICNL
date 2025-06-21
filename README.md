@@ -61,9 +61,3 @@
 - GitHub リポジトリ:  
   https://github.com/KimMeen/Time-LLM.git
 
----
-
-## 📧 問い合わせ
-
-不明点や要望があれば GitHub Issue を立てるか、  
-`a2276@staff.kanazawa-u.ac.jp` までご連絡ください。
